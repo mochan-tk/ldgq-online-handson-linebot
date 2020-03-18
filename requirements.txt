@@ -1,0 +1,2 @@
+chalice==1.13.0
+line-bot-sdk==1.16.0
